@@ -4,6 +4,8 @@
 # problem Statement:
 Nowadays, shopping malls and Big Marts keep track of individual item sales data in order to forecast future client demand and adjust inventory management. In a data warehouse, these data stores hold a significant amount of consumer information and particular item details. By mining the data store from the data warehouse, more anomalies and common patterns can be discovered
 
+## problem Type: Regerssion 
+
 
 
 
@@ -44,9 +46,12 @@ Nowadays, shopping malls and Big Marts keep track of individual item sales data 
 
 
 ## Process Flow
+![process_flow](https://user-images.githubusercontent.com/63961794/235301236-af04ca31-3ed2-4274-9ad5-12cf32a45375.jpg)
 
 
 ## Architecture
+![architecture](https://user-images.githubusercontent.com/63961794/235301243-6e23bf3b-6548-4f43-bc67-696ac2cedafd.jpg)
+
 ## Installation
 
 ```bash
@@ -81,7 +86,7 @@ Insert gif or link to demo
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Documentation](https://drive.google.com/drive/folders/1v2jUITKZFKqnmuz3UXPOrxdk01xGxtAa?usp=sharing)
 
 
 ## 🔗 Links
