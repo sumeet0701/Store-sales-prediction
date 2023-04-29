@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "templates",
+			"path": "."
+		},
+		{
+			"name": "sales prediction",
+			"path": "../../../end to end project/sales prediction"
+		}
+	],
+	"settings": {}
+}
